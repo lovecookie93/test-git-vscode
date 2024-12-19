@@ -2,8 +2,10 @@
 
 num = 67
 # To take input from the user
+
 #num = int(input("Enter a number: "))
 # define a flag variable
+
 flag = False
 if num == 1:
 print(num, "is not a prime number")
@@ -20,3 +22,5 @@ if flag:
 print(num, "is not a prime number")
 else:
 print(num, "is a prime number")
+
+#QUOICOUBAKA C'EST UN TEST CALCULEZ PAS!
