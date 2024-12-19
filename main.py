@@ -24,3 +24,4 @@ else:
 print(num, "is a prime number")
 
 #QUOICOUBAKA C'EST UN TEST CALCULEZ PAS!
+#fou rire les reufs
